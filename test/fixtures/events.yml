@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: MyString
+  name: MyString
+  date_and_time: 2016-07-13 13:56:52
+  repeats: false
+  frequency: MyString
+
+two:
+  user: MyString
+  name: MyString
+  date_and_time: 2016-07-13 13:56:52
+  repeats: false
+  frequency: MyString
