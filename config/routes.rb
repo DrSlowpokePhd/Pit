@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'users_skeleton/new'
+
   get 'static_pages/home'
 
   get 'static_pages/help'
